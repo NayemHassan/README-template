@@ -2,7 +2,8 @@
 Hi My name is Nayem Hassan  
 I was 23 years old   
 Now Iam 24 HEHE  
-ok Hello Friend Chaye Pillo
+ok Hello Friend Chaye Pillo  
+Admin Problem Fixed it by forget pw
 <br>
 
 <!-- Heading -->
